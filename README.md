@@ -1,2 +1,3 @@
-# Rocketseat-NLW
-Projetos NLW
+# Rocketseat
+### Repositório para os projetos criados durante os eventos e cursos da Rocketseat que participei.
+
